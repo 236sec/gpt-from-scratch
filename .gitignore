@@ -1,0 +1,20 @@
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Data files (Never push raw or large data to GitHub)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# OS generated files
+.DS_Store
